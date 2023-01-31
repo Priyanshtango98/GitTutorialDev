@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ0HUvkczkuECnKbh5Jekj0YhEsb+BUb5z61vn3dmgDv priyanshg2020@gmail.com
+
+ssh-keygen -t ed25519 -C priyanshg2020@gmail.com
